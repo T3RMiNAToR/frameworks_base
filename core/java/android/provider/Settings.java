@@ -3238,6 +3238,12 @@ public final class Settings {
          * @hide
          */
         public static final String VOICE_LAUNCH_INTENT = "voice_launch_intent";
+        
+        /**
+         * Toast Animations
+         * @hide
+         */
+        public static final String TOAST_ANIMATION = "toast_animation";
 
         /**
          * Whether navigation bar is placed on the left side in landscape mode
